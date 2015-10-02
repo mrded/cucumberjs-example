@@ -6,4 +6,4 @@ Feature: Google for Cucumber
   Scenario: find cukes.info
     Given I am on Google
     When I search for "Cucumber BDD"
-    Then I see a link to "http://cukes.info/"
+    Then I see a link to "https://cucumber.io"
